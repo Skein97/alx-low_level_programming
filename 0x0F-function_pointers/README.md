@@ -45,7 +45,7 @@ This task requires that you create four different files.
 
 This file should contain all the function prototypes and data structures used by the program. You can use this structure:
 
-3-op_functions.c
+**3-op_functions.c**
 
 This file should contain the 5 following functions (not more):
 
@@ -81,7 +81,7 @@ This file should contain your main function only.
 * You are not allowed to use any kind of loop
 * You are allowed to use a maximum of 3 if statements
 
-###4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
+### 4. Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker
 Write a program that prints the opcodes of its own main function.
 
 * Usage: ./main number_of_bytes
